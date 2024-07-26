@@ -18,6 +18,9 @@ __This is a simple implementation of the classic card game BlackJack using HTML,
         - getRandomCard(): Generates a random card value between 1 and 13, with special handling for Aces and face cards.
         - newCard(): Adds a new card to the player's hand and updates the game status if the player is still in the game.
 
+# Interface
+![BlackJack Game](img/interface.png)
+
 ## How to Play
 1. Start the Game: Click on the "Start Game" button to initialize the game with two random cards.
 2. Draw New Card: Click on the "New Card" button to draw additional cards in an attempt to get the sum of cards to 21.
