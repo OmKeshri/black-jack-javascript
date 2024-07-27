@@ -28,3 +28,6 @@ __This is a simple implementation of the classic card game BlackJack using HTML,
 
 ## Contributing
 Feel free to fork this repository and contribute by submitting a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License. See the license file here: [LICENSE](LICENSE)
