@@ -2,6 +2,8 @@
 
 __This is a simple implementation of the classic card game BlackJack using HTML, CSS, and JavaScript. The game allows a player to start a game, draw new cards, and aims to get a sum of cards as close to 21 as possible without exceeding it.__
 
+__Demo:__ https://omkeshri.github.io/black-jack-game
+
 ## Features
 - __Start Game__: Initializes a new game with two random cards.
 - __Draw New Card__: Allows the player to draw a new card if their sum is less than 21.
